@@ -33,3 +33,5 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
  [-] search keyword 'kryptonite' and check number of responses.
  [-] search keyword 'Kryptonite' to check case insensitivity.
  [-] if no word found in the description should show text 'No project found for the entered query'.
+
+ ![Screenshot](screenshot.png?raw=true "screenshot")
