@@ -1,3 +1,15 @@
+## Design system demo
+This is a small project to demo the design system 
+
+### To test
+
+ [-] loader should be displayed at the beginning.  
+ [-] number of divs should be equal to number of responded array.  
+ [-] search keyword 'kryptonite' and check number of responses.  
+ [-] search keyword 'Kryptonite' to check case insensitivity.  
+ [-] if no word found in the description should show text 'No project found for the entered query'.  
+
+ ![Screenshot](screenshot-main.png?raw=true "screenshot")
 
 ## Available Scripts
 
@@ -25,13 +37,3 @@ The build is minified and the filenames include the hashes.<br />
 Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### To test
-
- [-] loader should be displayed at the beginning.
- [-] number of divs should be equal to number of responded array.
- [-] search keyword 'kryptonite' and check number of responses.
- [-] search keyword 'Kryptonite' to check case insensitivity.
- [-] if no word found in the description should show text 'No project found for the entered query'.
-
- ![Screenshot](screenshot-main.png?raw=true "screenshot")
